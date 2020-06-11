@@ -1,0 +1,32 @@
+body {
+  background-image: url("/picx/leaves.png");
+}
+  
+  
+  h1 {
+      font-size: 100px;
+  }
+  h3{
+      font-size: 50px;
+  }
+  li{
+      font-size: 25px;
+  }
+ 
+  ul {
+    color: white
+  }
+  ol {
+    color: tomato
+  }
+  h2 {
+    font-size: 30;
+  }
+  p {
+    color: wheat;
+    font-size: larger;
+  }
+  a {
+    color: violet;
+
+  }

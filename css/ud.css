@@ -1,0 +1,36 @@
+
+body {
+   background-image: url("/picx/form.png");
+   background-repeat: no-repeat;
+   
+   background-size: cover;
+    
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    color: darkblue;
+    background-color: rgb(29, 209, 170);
+}
+h2 {
+    color: blue;
+     
+}
+h3 {
+    color: darkred;
+}
+
+input {
+    border-color: indigo;
+    
+}
+textarea {
+    border-color: indigo;
+    border-width: 3px;   
+}
+button  {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(37, 223, 0, 0.89);
+}

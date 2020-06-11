@@ -1,0 +1,28 @@
+
+body {
+    background-image: url("/picx/corona.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    color: aqua;
+     
+ }
+ 
+ h1 {
+     font-size: 60px;
+     color: yellowgreen;
+     background-color: navy;
+ }
+ h2 {
+     font-size: 30px;
+     color: blue;
+      
+ }
+ h3 {
+     color: darkred;
+ }
+ button  {
+     font-size: 50px;
+     color: rgb(255, 255, 255);
+     background-color: rgba(37, 223, 0, 0.89);
+ }
